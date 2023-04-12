@@ -1,0 +1,14 @@
+legend{
+			text-align: center;
+		}
+		fieldset{
+			margin: 200px 180px;
+
+			border-color: black;
+			box-shadow: 0 8px 32px 0 rgba(31, 38, 135, .37);
+			border-radius: 30px;
+		}
+		body{
+			background: linear-gradient(to right, #3f5, #918);
+			text-color: whitesmoke;
+		}
